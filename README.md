@@ -1,4 +1,4 @@
-# Anomaly Detection in Surveillance Videos using Machine Learning
+# Anomaly Detection in Surveillance Videos Using Machine Learning
   Our Anomaly detection system for surveillance monitoring aims to capture a diverse range of realistic anomalies in surveillance videos. Leveraging visual technologies, our proposed method detects various nomalies including theft, aggression, and accidents. By integrating normal and anomalous behavior data, our approach facilitates prompt identification and real-time responses to suspicious activities, enhancing security and public safety. Integrated with surveillance cameras in public spaces, the system alerts security personnel to instances of suspicious activity, ensuring timely intervention. We employ a deep anomaly ranking model to autonomously predict high anomaly scores within anomalous videos, thereby improving detection accuracy. Additionally, our method enables concurrent detection of anomalous activity in video frames and triggers an email alert mechanism with a photo of the detected anomaly, thus advancing anomaly detection capabilities and proactive security management in public spaces.
 
   ## Learning Model
